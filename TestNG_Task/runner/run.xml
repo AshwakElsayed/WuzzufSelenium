@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="wuzzuf Website">
+    <test name="Happy Scenarios test cases">
+
+        <classes>
+            <class name="tests.wuzzufClasses">
+            </class>
+        </classes>
+    </test>
+</suite>
